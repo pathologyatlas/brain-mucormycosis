@@ -1,21 +1,7 @@
 # brain-mucormycosis
 
 
-
 **brain-mucormycosis for pathology atlas repositories**
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
 
 
 
