@@ -38,11 +38,11 @@ source("./R/language.R")
 **Beyin mukormikozis HE**
 
 
-[https://pathologyatlas.github.io/brain-mucormycosis/HE.html](https://pathologyatlas.github.io/brain-mucormycosis/HE.html)
+[https://images.patolojiatlasi.com/brain-mucormycosis/HE.html](https://images.patolojiatlasi.com/brain-mucormycosis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/brain-mucormycosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/brain-mucormycosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -54,11 +54,11 @@ Mikroskopik görüntüleri inceleyin:
 **brain mucormycosis HE**
 
 
-[https://pathologyatlas.github.io/brain-mucormycosis/HE.html](https://pathologyatlas.github.io/brain-mucormycosis/HE.html)
+[https://images.patolojiatlasi.com/brain-mucormycosis/HE.html](https://images.patolojiatlasi.com/brain-mucormycosis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/brain-mucormycosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/brain-mucormycosis/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -67,11 +67,11 @@ See Microscopy with viewer:
 **Beyin mukormikozis GMS**
 
 
-[https://pathologyatlas.github.io/brain-mucormycosis/HE.html](https://pathologyatlas.github.io/brain-mucormycosis/HE.html)
+[https://images.patolojiatlasi.com/brain-mucormycosis/HE.html](https://images.patolojiatlasi.com/brain-mucormycosis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/brain-mucormycosis/GMS.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/brain-mucormycosis/GMS.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -83,11 +83,11 @@ Mikroskopik görüntüleri inceleyin:
 **brain mucormycosis GMS**
 
 
-[https://pathologyatlas.github.io/brain-mucormycosis/HE.html](https://pathologyatlas.github.io/brain-mucormycosis/HE.html)
+[https://images.patolojiatlasi.com/brain-mucormycosis/HE.html](https://images.patolojiatlasi.com/brain-mucormycosis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/brain-mucormycosis/GMS.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/brain-mucormycosis/GMS.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
